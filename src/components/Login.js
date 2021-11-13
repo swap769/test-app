@@ -47,7 +47,7 @@ export default class Login extends Component {
           />
           <br />
           <input
-            type="text"
+            type="password"
             placeholder="password"
             name="password"
             value={this.state.password}
